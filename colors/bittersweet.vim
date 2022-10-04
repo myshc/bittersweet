@@ -15,7 +15,7 @@ let s:purple      = { "gui": "#aaaaaa", "cterm": "176" }
 let s:cyan        = { "gui": "#aaaaaa", "cterm": "73"  }
 let s:white       = { "gui": "#d3d7cf", "cterm": "255" }
 let s:grey        = { "gui": "#aaaaaa", "cterm": "240" }
-let s:brown       = { "gui": "#aaaaaa", "cterm": "166" }
+let s:brown       = { "gui": "#aaaaaa", "cterm": "179" }
 
 function! s:h(group, fg, bg, attr)
   if type(a:fg) == type({})
