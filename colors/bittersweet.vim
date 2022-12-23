@@ -107,7 +107,7 @@ call s:h("Float",           s:brown,   "",       "")
 
 call s:h("Identifier",      s:blue,    "",       "")
 call s:h("Function",        s:blue,    "",       "")
-call s:h("Statement",       s:yellow,  "",       "")
+call s:h("Statement",       s:purple,  "",       "")
 
 call s:h("Conditional",     s:yellow,  "",       "")
 call s:h("Repeat",          s:yellow,  "",       "")
